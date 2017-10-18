@@ -1,0 +1,12 @@
+﻿Cody Schieferstine
+10/17/17
+CS&SE
+Per.2
+
+
+
+
+        While as a whole the project was not far off from the beginning app that the class had work together on. But one difficulty that I faced was when the meteor was tapped it presented an explosion png, the problem was that the explosion was still present even after the meteor was tapped. To solve this problem some unnecessary code was removed and the amount of time that the image would be present was reduced from 3 seconds down to 1 second, with these changes the image changes quicker than before which is what I was hoping for.
+
+
+My second problem while small was still a nuisance, the problem was transferring the game code all on to the game screen and Screen1 is going to be the branding screen, but I needed to add images or change some details. The whole ordeal was tedious and took up most of the class period. While transferring over code from one screen to the other seems easy, small details can be missed and some code cannot work without those details, most of the problems were with the designer view, but with time and careful inspection all of the code that needed to move over was taken care of.
