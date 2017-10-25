@@ -1,0 +1,5 @@
+﻿Ramon Bersamin
+Landfried
+
+
+Cody and I based the MeteorPop game off of a project we have done in the past, which is Balloon Pop except that it deals with Meteors and the orientation is in horizontal. Cody and I had two problems, which is that after the player taps a meteor and it goes to its explosion image, the explosion stops for a while and falls in its explosion state (it didn’t even go up to the top, too!). The other problem I faced (Cody’s is the transferring of code from Screen1 to the Game screen) is how to change the meteor’s hitbox, since if the hitbox of the meteor remained the way it was, then game over would have been pretty quick. Cody and I fixed the first problem after consulting with Mr. Landfried and finding out that the explosiontimer.set enabled:true was placed in the wrong area, thus letting the meteors turn into explosions while staying still for a while and falling. Also, Cody and I changed the timer for the explosiontimer from 3 seconds to 1. For the second problem, I solved it independently using Pixlr Editor’s constraint tool, which acted like a crop tool, to reduce the ‘hitbox’, which surprisingly worked.
